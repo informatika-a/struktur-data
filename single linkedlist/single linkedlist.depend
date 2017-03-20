@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1489975244 source:c:\users\ikky\documents\c++ struktur data\single linkedlist\main.cpp
+	"linkedlist.h"
+
+1489975267 c:\users\ikky\documents\c++ struktur data\single linkedlist\linkedlist.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1489281946 source:c:\users\ikky\documents\c++ struktur data\single linkedlist\full link.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+
