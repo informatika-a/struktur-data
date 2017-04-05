@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489984210 source:d:\tito\program lingked list\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
